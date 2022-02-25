@@ -1,0 +1,84 @@
+.pink-bg{
+    background-color: #FEEAE9;
+}
+.carousel-item{
+    padding: 20px 40px;
+    border-radius: 30px;
+}
+
+.btn {
+    height: 50px;
+    
+    flex: 1 1 auto;
+   
+    
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+   /* text-shadow: 0px 0px 10px rgba(0,0,0,0.2);*/
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+   }
+   .btn:hover {
+    background-position: right center; /* change the direction of the change here */
+  }
+  
+  .btn-1 {
+    background-image: linear-gradient(to right, #f6d365 0%, #fda085 51%, #f6d365 100%);
+  }
+  .price{
+      color: palevioletred;
+  }
+  .container{
+      margin-bottom: 100px;
+  }
+  .cat-1{
+      background-color: rgb(245, 81, 109);
+
+
+
+  }
+  .cat-2{
+      background-color: rgb(134, 243, 134);
+  }
+  .cat-3{
+      background-color: rgb(247, 207, 148);
+  }
+  .cat-1 ,.cat-2 ,.cat-3{
+      padding: 10px 30px;
+      border-radius: 20px;
+  }
+  .catagories img {
+      width: 100px;
+
+  } 
+  .catagories h1{
+      color: white;
+  }
+  .card{
+      border:none;
+      box-shadow: 5px 5px 10px lightgrey;
+  }
+ .bottom{
+    margin-top: 45px;
+ }
+ #Subscribe{
+     height: 350px;
+ }
+ footer{
+     text-align: center;
+ }
+ #subscribe{
+     height: 350px;
+ }
+ .col-sm-12{
+     margin-bottom: 10px;
+ }
+ .button1{
+     background-image: linear-gradient(orange , hotpink);
+     border-radius: 10px;
+     height: 50px;
+     width: 100px;
+ }
